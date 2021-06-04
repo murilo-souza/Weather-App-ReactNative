@@ -1,2 +1,2 @@
-# Weather-App-ReactNative
- Aprender a consumir API em React Native
+# Weather-App
+ Aplicativo feito para aprender a consumir API em React Native
