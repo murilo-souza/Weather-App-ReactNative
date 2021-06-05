@@ -1,10 +1,18 @@
-
-# Weather App
- Aplicativo feito para aprender a consumir uma API de clima em React Native
+ <html>
+  <h1>Weather App</h1>
+  <br>
  
- # Tecnologia
- * [React Native](https://reactnative.dev)
- * [API de clima](https://openweathermap.org)
+  <h2>Projeto</h2>
+  <p>Aplicativo feito para aprender a consumir uma API de clima em React Native<p>
+  <br>
  
- # Imagem do Aplicativo
-![AppClima](https://user-images.githubusercontent.com/53982668/120874614-e5af8000-c57d-11eb-8518-8a20cf48673f.png)
+  <h2>Tecnologia</h2>
+  <ul>
+  <li><a href="https://reactnative.dev">React Native</a></li>
+  <li><a href="https://openweathermap.org">API de clima</a></li>
+  </ul>
+  <br>
+ 
+  <h2>Imagem do Aplicativo</h2>
+  <img src="https://user-images.githubusercontent.com/53982668/120874614-e5af8000-c57d-11eb-8518-8a20cf48673f.png">
+ </html>
