@@ -7,8 +7,14 @@
   
   <h2>Tecnologia</h2>
   <ul>
-  <li><a href="https://reactnative.dev">React Native</a></li>
-  <li><a href="https://openweathermap.org">API de clima</a></li>
+   <li><a href="https://reactnative.dev">React Native</a></li>
+   <li><a href="https://openweathermap.org">API de clima</a></li>
   </ul>
-  
+ 
+  <h2>Vídeo</h2>
+  <ul>
+   <li><a href="https://www.youtube.com/watch?v=NgDaPmxewcg&list=PLD85btOM_5RRRt8VrzyBHr0yj1vJtCpTs&index=5">Link do Vídeo</a></li>
+   <li><a href="https://www.youtube.com/channel/UCbWV65OoGP6mw2pGd0c5E-g">Link do canal</a></li>
+  </ul>
+   
  </html>
